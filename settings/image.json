@@ -1,0 +1,18 @@
+{
+    "default": {
+        "width": 2160,
+        "height": 2160,
+        "processing": "max"
+    },
+    "thumbnail": {
+        "width": 730,
+        "height": 480,
+        "processing": "exact",
+        "watermark": false
+    },
+    "slide-default": {
+        "width": 2160,
+        "height": 1440,
+        "processing": "exact"
+    }
+}

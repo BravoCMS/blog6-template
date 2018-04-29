@@ -1,0 +1,5 @@
+{
+    "image": "@settings/image.json",
+    "page": "@settings/page.json",
+    "scheme": "@settings/scheme.json"
+}

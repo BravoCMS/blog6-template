@@ -1,0 +1,17 @@
+{
+    "orange": {
+        "name": "Orange",
+        "color": "#ff8c00",
+        "image": "/assets/image/scheme/orange.jpg"
+    },
+    "blue": {
+        "name": "Blue",
+        "color": "#6495ed",
+        "image": "/assets/image/scheme/blue.jpg"
+    },
+    "red": {
+        "name": "Red",
+        "color": "#ff4500",
+        "image": "/assets/image/scheme/red.png"
+    }
+}
