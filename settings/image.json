@@ -7,12 +7,12 @@
     "thumbnail": {
         "width": 730,
         "height": 480,
-        "processing": "exact",
+        "processing": "max",
         "watermark": false
     },
     "slide-default": {
         "width": 2160,
         "height": 1440,
-        "processing": "exact"
+        "processing": "max"
     }
 }
